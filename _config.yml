@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: test
+layout_spectrum: 0.9675184835214168
+typography_spectrum: 0.3022225936874747
+color:
+  brandStrength: 0.21301580546423793
+  lightness: 0.7020498085767031
+  saturation: 0.8691241720225662
+  rhythmicContrast: 0.24836765206418931
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+content: []
+github: true
